@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         f"""<b> Hey,👋 {message.from_user.first_name}!
 \n Hello 👋 there! I can play music in voice chats of Telegeam Groups.
 I have a lot of cool feature that will amaze you!
-\nTo add in your group contact us at @slbotzone .
+\nTo add in your group contact us at @SL_Tech_Worldchat .
 \nHit /help list of available commands.
  </b>""",
       
