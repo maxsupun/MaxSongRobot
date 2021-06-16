@@ -23,23 +23,23 @@ I have a lot of cool feature that will amaze you!
             [
                 [
                     InlineKeyboardButton(
-                        "🎧 Music World 🎧 ", url="https://t.me/supunmasl",
+                        "🎧 Music World 🎧 ", url="https://t.me/SL_Tech_Worldchat",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "👨‍👨‍👦 Group 👨‍👨‍👦 ", url="https://t.me/slbotzone"
+                        "👨‍👨‍👦 Group 👨‍👨‍👦 ", url="https://t.me/SL_Tech_Worldchat"
                     ),
                     InlineKeyboardButton(
-                        " 🌀 Channel 🌀 ", url="https://t.me/FreeNetSL"
+                        " 🌀 Channel 🌀 ", url="https://t.me/SL_Tech_World"
                     ),
                     InlineKeyboardButton(
-                        "📦 Source code📦", url="https://github.com/supunmadurangasl/VCPlayBot"
+                        "📦 Source code📦", url="https://github.com/sltechworld/VCPlayBot"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group 🎙 ", url="https://t.me/vc_play_slbotzone_bot?startgroup=true"
+                        "➕ Add To Your Group 🎙 ", url="https://t.me/vc_play_SL_Tech_Worldchat?startgroup=true"
                     ) 
                 ]
             ]
@@ -58,10 +58,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " 🌀 Channel 🌀", url="https://t.me/FreeNetSL"
+                        " 🌀 Channel 🌀", url="https://t.me/SL_Tech_World"
                     ),
                     InlineKeyboardButton(
-                        " 👨‍👨‍👦 Group 👨‍👨‍👦", url="https://t.me/slbotzone"
+                        " 👨‍👨‍👦 Group 👨‍👨‍👦", url="https://t.me/SL_Tech_Worldchat"
                     )
                 ],    
                 [    
@@ -107,10 +107,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " 🌀 Channel🌀 ", url="https://t.me/FreeNetSL"
+                        " 🌀 Channel🌀 ", url="https://t.me/SL_Tech_World"
                     ),
                     InlineKeyboardButton(
-                        "👨‍Group 👨‍", url="https://t.me/slbotzone"
+                        "👨‍Group 👨‍", url="https://t.me/SL_Tech_Worldchat"
                     )
                 ]
             ]
