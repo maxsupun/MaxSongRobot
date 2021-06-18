@@ -84,4 +84,4 @@ Copy `example.env` to `.env` and fill it with your credentials.
 [Read more](http://www.gnu.org/licenses/#AGPL)
 
 ## Special Credits
-
+- [sltechworld](https://github.com/sltechworld) - Our group
