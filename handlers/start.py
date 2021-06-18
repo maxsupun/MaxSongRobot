@@ -34,12 +34,12 @@ I have a lot of cool feature that will amaze you!
                         " 🌀 Channel 🌀 ", url="https://t.me/SL_Tech_World"
                     ),
                     InlineKeyboardButton(
-                        "📦 Source code📦", url="https://github.com/sltechworld/VCPlayBot"
+                        "📦 Source code📦", url="https://github.com/sltechworld/MaxSongRobot"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group 🎙 ", url="https://t.me/vc_play_SL_Tech_Worldchat?startgroup=true"
+                        "➕ Add To Your Group 🎙 ", url="https://t.me/MaxSongRobot_SL_Tech_Worldchat?startgroup=true"
                     ) 
                 ]
             ]
