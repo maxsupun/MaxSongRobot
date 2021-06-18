@@ -15,7 +15,7 @@
             "required": true
         },
         "BOT_NAME": {
-            "description": "Your VCPlayBot Name.",
+            "description": "Your MaxSongRobot Name.",
             "required": false,
             "value": ""
        },
