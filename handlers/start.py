@@ -35,7 +35,7 @@ I have a lot of cool feature that will amaze you!
                     ),
                      [
                     InlineKeyboardButton(
-                        "⚡️ Our Youtube Channel ⚡️ ", url="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA",
+                        "⚡️ Our Youtube Channel ⚡️ ", url="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA"
                     )
                 ],
                 [
