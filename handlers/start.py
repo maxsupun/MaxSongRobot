@@ -33,8 +33,9 @@ I have a lot of cool feature that will amaze you!
                     InlineKeyboardButton(
                         " 🌀 Channel 🌀 ", url="https://t.me/SL_Tech_World"
                     ),
+                     [
                     InlineKeyboardButton(
-                        "📦 Source code📦", url="https://github.com/sltechworld/MaxSongRobot"
+                        "⚡️ Our Youtube Channel ⚡️ ", url="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA",
                     )
                 ],
                 [
