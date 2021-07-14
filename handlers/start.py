@@ -33,14 +33,13 @@ I have a lot of cool feature that will amaze you!
                     InlineKeyboardButton(
                         " 🌀 Channel 🌀 ", url="https://t.me/SL_Tech_World"
                     ),
-                     [
                     InlineKeyboardButton(
-                        "⚡️ Our Youtube Channel ⚡️ ", url="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA"
+                        " ⚡️ Our Youtube Channel ⚡️ ", url="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group 🎙 ", url="https://t.me/MaxSongRobot_SL_Tech_Worldchat?startgroup=true"
+                        "➕ Add To Your Group 🎙 ", url="https://t.me/maxsong123robot?startgroup=true"
                     ) 
                 ]
             ]
